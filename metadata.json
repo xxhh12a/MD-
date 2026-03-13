@@ -1,0 +1,5 @@
+{
+  "name": "Markdown Merger",
+  "description": "A tool to merge multiple Markdown files into one, with options to preserve filenames as headings and demote existing headings.",
+  "requestFramePermissions": []
+}
